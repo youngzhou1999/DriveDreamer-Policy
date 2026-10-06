@@ -9,6 +9,7 @@
 
 ## Updates
 
+- **[10/2026]** Our paper was accepted to NeurIPS 2026!
 - **[05/2026]** Code and model weights released!
 - **[04/2026]** Paper draft released on [arXiv](https://arxiv.org/abs/2604.01765).
 
